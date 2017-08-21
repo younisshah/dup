@@ -1,0 +1,12 @@
+[package]
+name = "dup"
+version = "0.1.0"
+description = "A RW pipe for the given 'fd'"
+homepage = "https://github.com/younisshah/dup"
+documentation = "https://github.com/younisshah/dup"
+license = "MIT"
+readme = "README.md"
+authors = ["Younis Shah <younisashah@gmail.com>"]
+
+[dependencies]
+libc = "0.2.29"
